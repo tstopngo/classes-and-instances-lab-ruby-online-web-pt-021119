@@ -1,6 +1,7 @@
 class Dog
-  fido
-  snoopy
-  lassie
+ 
 end
 
+ fido= 
+  snoopy
+  lassie
